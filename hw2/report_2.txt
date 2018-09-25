@@ -1,0 +1,45 @@
+Katie Meis
+Bioinformatics Computing 
+Homework 2
+
+Used Python 2.7, numpy for all
+
+1. Files located in hw2 directory named fly_gene.fasta and human_gene.fasta.
+
+
+2. python globalign.py -i human_gene.fasta -f fly_gene.fasta -o global_alignment.txt
+
+Prints out optimal alignment score and writes alignment to -o option (global_alignment.txt)
+"Optimal alignment score is: -1016.0"
+
+
+3. python localign.py -i human_gene.fasta -f fly_gene.fasta -o local_alignment.txt
+
+Prints out optimal alignment score and writes alignment to -o option (local_alignment.txt)
+"Optimal alignment score is: 820.0"
+
+Local alignment is different from global alignment in that you are matching a query to a substring of the other sequence instad of doing an end to end alignment.
+Local alignment is more useful in cases where two sequences are dissimilar but may contain regions that have been conserved or are similar. 
+Global alignment would be better used for comparing homologous genes that are overall very similar, for example.
+In this case, it looks like local alignment performs better than global alignment as the optimal alignment score is much higher. This would suggest that
+only portions of these two genes are closely similar. 
+
+
+4. python egfalign.py -i human_mito.fasta -o neander_sample.fasta
+
+Prints out optimal alignment score
+"Optimal alignment score is: 620.0"
+
+
+5. I used blast to align the fly and human sequences, the fly being the subject and the human being the query. 
+The results show what looks like two local alignments - the beginning of the human sequence (bp 11-408) aligns to bp 198-595 of the
+fly sequence with a score of 235, identity of 73%, and e value of 4e-65. The second local alignment is between bp 625-828 of the human gene and
+1316-1519 of the fly gene, with a lower score of 102, e value of 6e-25, and identity of 71%. Overall, the total score was 337 and the query
+cover was 47%. This backs up what would be expected from the results of the global and local alignments from problems 2 and 3. 
+(see images if needed)
+
+
+6. It looks like this sequence is sonic hedgehog.
+The top hit had a max score of 17378, 100% query cover and identiy, and 0.0 e value.  
+Top hit was "Homo sapiens sonic hedgehog (SHH), RefSeqGene on chromosome 7"
+(see image if needed)

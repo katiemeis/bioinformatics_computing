@@ -1,0 +1,60 @@
+Katie Meis - Bioinformatics computing homework 1 report
+
+1. I have read and understand the CSE honor code statement.
+
+3. ########  to run reverse_comp.py for question 3  ########
+Biopython and numpy imported
+Open up a terminal and type the following command (change -o filename to avoid overwriting if running)…
+	python reverse_comp.py -i lambda.fasta -o lambda.rev.fasta
+
+4. ########  to run calc_freqs.py for question 4 ########
+Numpy imported
+Open up a terminal and type the following command…
+	python calc_freqs.py -i lambda.fasta
+
+A: 0.254298791802
+T: 0.247123829945
+C: 0.234258381098
+G: 0.264318997155
+
+AA : 0.0761221418115
+AC : 0.053050452568
+GT : 0.057070988227
+AG : 0.05632873549
+CC : 0.0514834745675
+TT : 0.0689676501515
+CG : 0.0641842436238
+GG : 0.06556565844
+GC : 0.0745345456795
+AT : 0.0688027050989
+GA : 0.0671326364405
+TG : 0.0782251912332
+TA : 0.0447413455393
+CA : 0.0663079111771
+TC : 0.0551947382528
+CT : 0.0522875816993
+
+*just put output in file with python calc_freqs.py -i lambda.fasta > freqs_results.txt
+
+6. ########  to run calc_seq_prob.py for question 6 ########
+Used natrual log, numpy and math imported
+Open up a terminal and type the following command (change -o filename to avoid overwriting if running)…
+	python calc_seq_prob.py -i human_mito.fasta -o neander_sample.fasta
+
+Log probability (multinomial, ln): -452.66373566
+Log probability (Markov, ln): -451.796619857
+
+7. ########  to run generate_seq.py for question 6 ########
+Numpy, random, and biopython imported
+Open up a terminal and type the following command (change -o filename to avoid overwriting if running)…
+	python generate_seq.py -i human_mito.fasta -o generated_sequence_markov.txt
+
+OR, if fasta file prefered, uncomment Bio imports and last two lines, comment line 214
+
+Open up a terminal and type the following command (change -o filename to avoid overwriting if running)…
+	python generate_seq.py -i human_mito.fasta -o generated_sequence_markov.fasta
+
+
+*both files are in my directory, wasn't sure if format mattered
+
+

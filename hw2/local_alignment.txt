@@ -1,0 +1,129 @@
+>fly (top) vs human (bottom)
+TTCGCACGGCGTGCGTTTGG-C-TGA-A-C-A-C-AG--C-A-GTCTCT-TGGC-TAAAGCTTTCA-TG-
+ | | |   |    | |      |                   |||     ||       |   |     
+-T-GAAT--CA---GCTC--G-GT--G-G-T-G-T--CT-T-TGTCAA-C-GG-G-----CGG-C-C--A
+
+-A-G--CAGTGCA-T-GT--A-A-T-A-A-AA--AC-T---G-A-GA-TC-C-AACT-AT--GT--T-T-
+      | |  |                                    |     |       |       
+C-T-GCCGGA-CTC-C--AC-C-C-G-G-C--AG--A-AGA-T-T--GT-A-G-AG-C--TAGCTC-A-C
+
+--A--C-A-T-T--G-C-A-AC-C-A-ACTCCA-A-C-TG--C--TATAGG---CACC------G-T-G-
+                             |               |   |    |  |            
+AG-CG-G-G-G-CC-C-G-G--C-C-G--TG--C-G-A--CA-TTTCCCGAATTCTGCAGGTGT-C-C-A
+
+G-T-T-C-C-CC-C-------ATG-G-T-C-A-G-CG-G-G-AA-C-AT-T-GA-TA-GAGCGCC--T-G
+                      |                             |      |         |
+-A-C-G-G-A--T-GTGTGAG-T-A-A-A-A-T-T--C-T-G--G-G--C-AG-G--T-ATTA--CG-AG
+
+CCGTCTTTA-G-A-AG--ACATGGC-T-CACAAGGGT-C-ACAG-TGGA-GTAAA-T-C-AG-CT-GG-G
+    ||             ||  |    ||     |     ||  | |   |        |         
+A---CTGGCT-C-C--AT-CA--GAC-CCA-----G-G-G-CA-ATCG-G-TGGTA-G-TA-A--A--C-
+
+-TGGCGTTTTTGT-T-GGAGGAAG-G-C-CT-TTGC-CA-G-A-T-T-C-AACACGGCAAA--A-AATTG
+     |    |      ||               |                 ||    |       | | 
+C----GAGAGTA-G-C-GACTCC-A-G-A--A--G-T--T-G-T-A-A-G--CAAAATAG-CC-C-AGTA
+
+--T-CGA-A--C-T-G-GC-AC-AT-T--CT-G-G---A-G--C-T-C-GG--CC-AT-GT--G-A--T-
+     |         |                                           |          
+TA-A-G-C-GG-G-AGT--G--C--C-CG--T-C-CAT-C-TT-T-G-C--TT--G--GG-AA-A-TC-C
+
+A-T-T-TC-TC-GAATTCTG-CA-A-GTATCAAAT-GGA-T-GTGTGAGCAAAAT-T-CTC-G-G-G-AG
+              |   |   |   ||  |     ||    |  |  | |       |           
+-G-A-G--A--C--AGA-T-T-AC-TGT--CCG--AGG-G-GG--TCTGTACC--A-ACGAT-A-A-C--
+
+-G--T--AT-T--A-T-G-AA-A-CAGG-AAG--C-A-T-ACGA-CC--A-C-G-TG--CTA-T-C-G-G
+                        ||    |          | |               |          
+A-TA-CC--A-AG-C-G-T--G-TCAT-C-A-AT-A-A-A-C-AG--AG-T-T-C--TTCG-C-A-A-C-
+
+--AGGA-TCCAAGCCACGTGTG-G-C--C-ACA-G-CC-G-AAGT-CG-TTAGCAAA-AT-TT-CGC-AG
+    |    | ||| |   |          |            |       | |           |  | 
+CT--G-G--CTAGCGAAAAGC-A-A-CA-GAT-G-G--G-C--GCA--G--A-CGG-C--A--T-G-TAT
+
+-T-AC-AAA-CGCG-A-G-TGTCCTAG-CATATT-TG-CT-T-GGGA-AATTCGGGA-T--AGATT-ACT
+       || |        |||   |  |       |        |   |  | ||     |        
+G-A--T-AAACTAAG-G-ATGTTG-A-ACGGGC-A-GA--C-C--G-G-AAGCTGG-G-GCACCC-G---
+
+TCAGGA-GAAC--G-TT-T-GT--A-C-TAACGATAATATA-C-CA-A-GT-GTGT-CC-TC-AATAA-A
+ |     |        |             ||  |                   |        ||     
+-CCCT-GGTTGGT-A-TC-C--GG-G-G--AC--TTCGG--T-G--C-C--A--G-G--G--CAACC-T-
+
+-CC-GTGT-ATTGAGA--A-A--CTT-G--G-CT--G-C-G--C-A-A-A--A-GG-A-G-C--AG-C-A
+    |    || |          |                              |         |  | |
+A--CGCAAGATGGCT-GC-C-AGCA-A-CA-G--GA-A-G-GA-G-G-G-GG-AG-A-G-A-ATA-CCAA
+
+-A-A-G--C-ACG-GG-A-TCCGGGAGCTCCAGCACATCCGCCGGCAACTCAATCAGCGCAAAAGTGTCT
+           |   |                                           |          
+C-T-C-CA-T-C-A-GT-T----------------------------------------CC---------
+
+GTCAGCATCGGTGGCAACGTGAGCAATG-TGGCAAGCGGATCGAGAGG-CA-C-GT-T-G-AGC-T--C-
+      | ||| |  ||     |  |   |      | |||   ||         |     |        
+------AACGGAG--AA-----G--A--TT------CAGAT---GA--G--G-C-TC-A-AAT-G-CG-A
+
+T-T-C-CACCGATCTTATGC-A-GA-CA-G-CC-ACTCCTCTTAACTCTTCGGAAAGCGGTGGCGCAA-C
+         | | || |      |           ||   |  |        ||||    | |  |    
+-C-T-T---C-AGCTGAA--G-CG-G--A-A--G-CTG--CAAA--------GAAA----TAGAAC--A-
+
+GAACTCC-GG-G-G-A-GG-G--T-AG-TG-A-AC--AGGAGGCG-AT-T-T-A-CGAGAAGC-T-T-C-
+    |                    |     |  |  |    | |             | |         
+----T--C--C-T-T-T--A-CC-CA-A--GAG-CAAATT--GAGG--C-C-C-T---GGA--G-A-A-A
+
+GGCTGTTAAATACTC-AG-CACG-C-T-G--C-AGGACCAGGACCAC-TGGAGCCT-G-C-C-A-GAGCA
+ |   ||  | |       ||            | |     | ||     ||              ||| 
+-GAG-TTTGAGAGAAC--CCATTA-T-C-CA-GATGTGTTTGCCCG-A--GAAAGAC-T-A-G-C-AGCC
+
+-G-CG--C--CC--TT--GG-TAGGTCAATCACCCA-A-C-C-AC-CTAGG-AA-C-CC--GA-TC-C-A
+                      |  |     |           |   ||            |  |     
+A-A--AA-TA--GA--TC--T-ACCTG----AAG--C-A-A-GA-A-TACAG--G-T--ATG-GT-T-T-
+
+-G--C-C--AC--C-C-C-C--AGCTGGTG-C-AC-G-G-TAAC-C-ATCAGGCAC-T-AC-AG-C-A-G
+                        |                 |    |    | |    |  |       
+T-CT-A-AT--CG-A-A-G-GG--CCAAA-T-G--G-A-G--A-A-GA----G-A-A-GA-AA-A-A-C-
+
+-C-ATCAA-C-A-GCAGAGCTGGCCGC-C-CC--GT--CA-C-T--AT-T-CC-G-G-ATC--T-T-G-G
+   |          |  ||   |               |                   | |         
+T-GAGG--A-A-T-C--AGA--GAA--G-A--CA--GGC-C-A-GC--A-A--C-A-CACCTA-G-T-C-
+
+TACC-C-C-ACCT-CTCT-T---AGCGA-A-A-TA-C-CC-AT-CT-CATC-GGCTCCC-AA-TATCGCA
+ |         |   | |     ||  |     |          |   |    | ||            |
+-AT-A-T-T--C-C-TATC-AGCAGT-AG-T-TTCA-G--C--AC-C-AG-T-G-TCTAC--C------A
+
+TCC-GT-TAC-G-G-CG-T-AT-G--C-A-T-CAGGACCT-TCACT-T-G-CTCACTCACT-GA-G----
+        |                       |   | |    |       |    |  |          
+A--C--C-A-A-T-T--C-C--A-CA-A-C-CC---A-C-C--A--C-A-CCGG--TTTC-C--T-CCTT
+
+-T---CC-A--C-C-CA-A-CG-AC-A-TCAAAA-G-C-CT-G-G-C-C-AGT-A-T-CG-GT-CACCAG
+                    |  |    |      |              |       |       |   
+C-ACA--T-CT-G-G--C-TC-CATG-TTGGGC-CGA-A--C-A-G-A-CAC-A-G-CC-C--T--C---
+
+AGAAAC-TG--CCCCG-T-TGCAA--CGGAGGA-CA-TACAT-T-T-AAAA-AA-A-G--A-A-CTTGAT
+|  ||      ||       ||    | |     |  ||        |                  ||  
+AC-AA-A--CACCTA-C-A-GCG-CTCTGCC--GC-CTATG-C-C-CAGC-T--T-C-AC-C-A--TGGC
+
+-G--GT-C-AT-CAGTCCGATG-AA--AC-G--GG-C-T--CCGGTGAAGGT--G-AA--AA-CTCCA-A
+         |  |  |  |                      || ||                   ||   
+A-AA--T-AA-CC--T--GCC-T--AT--G-CA--A-C-CCCCAGTCCCCA-GC-C--AG--A--CCTC-
+
+-TGGTGG--CGC-T-T-C--AA-ATAT-A-G-GA--A-ACACT-G-A-GGATGAT-CA-AG-C-TC-G-G
+ |  |    |              |               |          |                  
+CTCATACTCCT-G-C-A-TG--C-TG-C-C-C--AC-C--AG-C-C-C---TTCGG--T--G-A--A-T-
+
+-C-T-CA--T-A-C-TA-AA--A-A-G-A--A-A-G-T-T-G--CA-A-CG--C-AA-TC-G--AA-CAT
+               |                            |    |                 || 
+G-G-G--CG-G-A-GT-T--AT-G-A-T-AC-C-T-A-C-A-CCC-C-CC-CA-C--A--T-AT--GCAG
+
+C-TT-T-CACGAACGACCAGATAGACAG-T-CTT--GAAAAAGAGTTTGAACGAACACACT-A-T-CCA-
+       |||  |      |  |  |       |  |  || | |       |      |      |   
+-A--C-ACAC--AT-----G--AA-C--A-G--TCAGCCAATGGGCACCTC-GGG----CAC-C-ACT-T
+
+GA-T-GT-T-T-TTGC-C-C-G---C-G-A-ACG-T-T-T-GGC-TGG-A-A-A-GATTGGGT-T-G-CC
+              |                 |        ||  |         | ||         | 
+--C-A--A-C-A--G-G-A-C-TCA-T-T-T-C-C-C-C-TGGTGT--G-T-C-AG-TTCCA-G-T-TCA
+
+AGAGGCA-A-GA-AT-T-C-A-G-G-T-T-T-GGTT-C-TC-A-A-A-CC-GT-C-G---A----G-C--
+||   |    |           |         |      |                              
+AGTT-C-C-CG-G--A-A-G-TGA-A-C-C-TGA--T-AT-G-T-C-T--C--A-A-TAC-TGGC-C-AA
+
+-AAAATGGCGT
+ |  |    ||
+GATTACA--GT
+

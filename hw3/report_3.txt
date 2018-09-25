@@ -1,0 +1,34 @@
+Katie Meis
+Bioinformatics Computing
+Homework 3
+
+1. python generate_rolls.py -o generated_rolls_1.txt
+
+Writes random sequence of 300 rolls to -o option (generated_rolls_1.txt)
+
+
+2. Files in hw3 folder, named hw3_1.txt and hw_2.txt
+
+
+3. Probability code
+python calc_prob.py -i hw3_1.txt
+output is: 2.71995343569e-232
+
+python calc_prob.py -i hw3_2.txt
+output is: 1.93533032023e-232
+
+*these aren't the same answers Scott put online, but when I changed the transition probability of loaded to fair to be the same as fair to loaded I got the old answers he had confirmed so I believe these numbers are correct. 
+
+
+4. Viterbi code
+python viterbi.py -i hw3_1.txt -o viterbi.1.txt
+python viterbi.py -i hw3_2.txt -o viterbi.2.txt
+
+
+5. Files are in hw3 folder, named virulent_anth.fasta and non_virulent_anth.fasta.
+
+
+6. Dowloaded and unpacked GLIMMer using instructions provided on the site. 
+
+
+7. GLIMMer output files for Anthrax genomes in hw3 folder, named virulent.predict and nonvirulent.predit. All other output files are in hw3/glimmer_files if needed.  
